@@ -1,0 +1,4 @@
+/hbase.properties
+/log4j.properties
+/lucene.properties
+/redis.properties
